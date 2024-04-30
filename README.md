@@ -55,39 +55,26 @@ Conheça alguns atalhos e a lista com os atalhos mais utilizados no IntelliJ:
 | Debug - Step Out               | Shift + F8                     |
 | Debug - Step Over              | F8                             |
 
-
 ## Atalhos de template para códigos
 
-| Template         | Resultado                                                           |
-|------------------|---------------------------------------------------------------------|            |
-| sout             | System.out.println();                                             |
-| soutm            | System.out.println("methodName");                                  |
-| soutp            | System.out.println("parameter = " + parameter);                   |
-| soutv            | System.out.println("variable = " + variable);                     |
-| iter             | for (var item : iterable) {                                       |
-|                  |     // loop body                                                  |
-|                  | }                                                                 |
-| itar             | for (int i = 0; i < array.length; i++) {                          |
-|                  |     var element = array[i];                                       |
-|                  |     // loop body                                                  |
-|                  | }                                                                 |
-| nn               | var name = new Class();                                           |
-| nnf              | var name = new Class(f);                                          |
-| psf              | public static final                                               |
-| psfi             | public static final int                                           |
-| psfs             | public static final String                                        |
-| psvm             | public static void main(String[] args) {                         |
-|                  |     // entry point                                                |
-|                  | }                                                                 |
-| thrw             | throw new Exception();                                            |
-| thrws            | throw new Exception("message");                                    |
-| try              | try {                                                             |
-|                  |     // try block                                                   |
-|                  | } catch (Exception e) {                                          |
-|                  |     // catch block                                                 |
-|                  | } finally {                                                       |
-|                  |     // finally block                                               |
-|                  | }                                                                 |
+| Template         | Resultado |
+|------------------| ------------------------|            
+| sout             | System.out.println();   |
+| soutm            | System.out.println("methodName");|
+| soutp            | System.out.println("parameter = " + parameter);|
+| soutv            | System.out.println("variable = " + variable);  |
+| iter             | for (var item : iterable) {    // loop body }  |
+| itar             | for (int i = 0; i < array.length; i++) { var element = array[i];                             // loop body }                     |
+| nn               | var name = new Class();                        |
+| nnf              | var name = new Class(f);                       |
+| psf              | public static final                            |
+| psfi             | public static final int                        |
+| psfs             | public static final String                     |
+| psvm             | public static void main(String[] args) {}      |
+| thrw             | throw new Exception();                         |
+| thrws            | throw new Exception("message");                |
+
+
 
 ## Referência 
 
