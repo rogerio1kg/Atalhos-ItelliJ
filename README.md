@@ -14,7 +14,7 @@ Conheça alguns atalhos e a lista com os atalhos mais utilizados no IntelliJ:
 
 ## Lista Especifica de Atalhos
 
-| Tipo de Atalho                 || IntelliJ IDEA                  |
+| Tipo de Atalho                 | IntelliJ IDEA                  |
 |-------------------------------|---------------------------|--------------------------------|
 | Abrir Classe                   | Ctrl + N                       |
 | Abrir Configurações            | Ctrl + Alt + S                 |
